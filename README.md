@@ -1,4 +1,4 @@
-# Conceitos de Computação em Nuvem no Azure (Anotações de Aula)
+# Conceitos de Computação em Nuvem no Azure
 
 ## Benefícios da Nuvem
 - Redução de custos com infraestrutura própria  
