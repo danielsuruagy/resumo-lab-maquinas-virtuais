@@ -5,7 +5,7 @@
 - Flexibilidade para começar pequeno e crescer conforme a demanda  
 - Pagamento por uso, evitando desperdício
 
-## Criação de VMs (Máquinas Virtuais)
+## Criação de VMs
 - Provisionamento rápido de servidores em poucos minutos
 - Escolha de sistema operacional, CPU, memória e rede
 - Substitui semanas de compra e instalação de hardware por alguns cliques
@@ -15,7 +15,7 @@
 - Garantia de funcionamento mesmo em caso de falha local  
 
 ## Escalabilidade e Elasticidade
-- **Escalabilidade**: aumentar recursos conforme a necessidade (ex.: mais processamento em dias de pico)  
+- **Escalabilidade**: aumentar recursos conforme a necessidade 
 - **Elasticidade**: reduzir recursos quando não são mais necessários, economizando dinheiro  
 
 ## Gerenciamento
@@ -27,7 +27,7 @@
 - Autenticação multifator e controle de acessos  
 - Padrões internacionais de compliance  
 
-## SLA (Service Level Agreement)
+## SLA
 - Acordo de nível de serviço oferecido pelo provedor  
 - Define garantias como **99,9% de disponibilidade**  
 - Dá mais segurança e confiança para empresas 
